@@ -1,0 +1,11 @@
+﻿  TextureManager.cpp
+  textManager.cpp
+  Map.cpp
+  main.cpp
+  GameObject.cpp
+  Game.cpp
+  ESC.cpp
+  Collision.cpp
+c:\users\ryan\documents\visual studio 2017\projects\coursework\coursework\collision.cpp(6): error C2062: type 'float' unexpected
+c:\users\ryan\documents\visual studio 2017\projects\coursework\coursework\collision.cpp(6): error C2143: syntax error: missing ')' before '{'
+  Generating Code...
